@@ -5,7 +5,7 @@ import {
 } from "react-router-dom";
 import './index.css'
 import React from "react";
-import Login from "./components/SharePage/Login.Jsx";
+import Login from "./components/Login.jsx";
 import Register from "./components/SharePage/Register";
 
 const router = createBrowserRouter([
