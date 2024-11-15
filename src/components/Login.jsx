@@ -20,7 +20,7 @@ const Login = () => {
                     <div className='border p-7 md:py-11 md:px-16 bg-white'>
                         <div className='flex items-center justify-center flex-col -mt-[6px]'>
                             <h3 className='text-4xl font-bold mb-[25px]'>Sign In</h3>
-                            <p className='text-lg mb-[27px]'>New to Oxyy? <Link to="/" className='text-blue-600 underline'>Create an Account</Link> </p>
+                            <p className='text-lg mb-[27px]'>New to Oxyy? <Link to="/register" className='text-blue-600 underline'>Create an Account</Link> </p>
                         </div>
                         <form>
                             <div className='mb-[22px]'>
